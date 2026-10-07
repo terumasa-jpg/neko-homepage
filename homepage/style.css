@@ -1,0 +1,18 @@
+/*ページ全体*/
+body{
+    background-color:#fff8ee;
+    color:#444;
+}
+
+/*タイトル　色指定*/
+h1{
+    color:red;
+    text-align:left;
+}
+
+/* 本文の色指定 */
+p{
+    text-align:center;
+}
+
+/*  [trl +/]に感動している) */
